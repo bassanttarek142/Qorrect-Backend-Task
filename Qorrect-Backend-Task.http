@@ -1,0 +1,6 @@
+@Qorrect_Backend_Task_HostAddress = http://localhost:5134
+
+GET {{Qorrect_Backend_Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Qorrect-Backend-Task.props" />
+</Project>
